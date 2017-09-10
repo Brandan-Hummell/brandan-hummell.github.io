@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Chat
-feature-img: "https://github.com/Brandan-Hummell/brandan-hummell.github.io.git/img/bloc_chat_feature.png"
-thumbnail-path: "https://github.com/Brandan-Hummell/brandan-hummell.github.io.git/img/bloc_chat_thumbnail.png"
+feature-img: "img/bloc_chat_feature.PNG"
+thumbnail-path: "img/bloc_chat_thumbnail.PNG"
 short-description: An AngularJS Chatroom Application
 
 ---
