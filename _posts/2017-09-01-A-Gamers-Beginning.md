@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Developing My Goal
+title: A Gamer's Beginning
 ---
-## A Gamer's Beginning
-
 Swinging the master sword in a green cap & tunic was part of my daily routine as a child. I would spend hours fighting through dungeons, pushing blocks, reflecting the occasional octorok projectile off my shield, and devising the best strategies to defeat the next boss. The Legend of Zelda: A Link to the Past was one of my favorite games growing up because I could explore, solve many intricate puzzles, and experience a mental challenge that few other activities (besides reading) could offer.
 
 ## The Natural Continuance

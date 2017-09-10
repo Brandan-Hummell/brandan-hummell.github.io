@@ -1,9 +1,7 @@
 ---
 layout: post
-title: How and Why I Chose Bloc
+title: A Pivotal Decision
 ---
-# A Pivotal Decision
-
 After deciding that I wanted to pursue a career in web development, I needed to understand the options for achieving my goal.
 
 ## The Homegrown Developer

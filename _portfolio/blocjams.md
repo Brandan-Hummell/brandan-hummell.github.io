@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 feature-img: "img/bloc_jams_bg.jpg"
-thumbnail-path: "img/bloc_jams_thumbnail.png"
+thumbnail-path: "img/bloc_jams_thumbnail.PNG"
 short-description: A modern music player
 
 ---

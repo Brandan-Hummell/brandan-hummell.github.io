@@ -2,8 +2,6 @@
 layout: post
 title: A Review of Bloc (33% Done)
 ---
-# 10,000 Foot View
-
 The overall experience has met and exceeded my expectations. I am constantly testing my limits, and I would have had a significantly harder time learning all of the material by myself. I am proud of two projects currently in my portfolio; not only do they represent my progression of knowledge, they are stepping stones in my goal to become a professional developer.
 
 ## My Coding Sherpa
