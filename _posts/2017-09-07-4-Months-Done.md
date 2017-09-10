@@ -14,7 +14,7 @@ Bloc lets you pick your mentor from long list with personal bios as well as thei
 
 The people at Bloc put a lot of thought into the sequence and the content of the curriculum. The flow is pretty natural, and I haven't felt overwhelmed at any one point with completely new concepts.
 
-Bloc's program is project based, which is totally the way to go. I am a learn-by-doing kind of person, so this works perfectly for me. Bloc does not follow an academic approach (thankfully) in which they teach you a ton of theory, and then you get some chances to put that theory into practice later. While they do provide some programming basics for anyone completely new, mostly everything that I work on goes straight to the portfolio.
+Bloc's program is project based, which is totally the way to go. I am a learn-by-doing kind of person, so this works perfectly for me. Bloc does not follow an academic approach (thankfully) in which they teach you a ton of theory, and then you get some chances to put that theory into practice later. While they do provide some programming basics for anyone new to coding, mostly everything that I work on goes straight to the portfolio.
 
 ## Integrated Career Preparation
 
