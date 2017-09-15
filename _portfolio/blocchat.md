@@ -3,7 +3,7 @@ layout: post
 title: Bloc Chat
 feature-img: "img/bloc_chat_feature.PNG"
 thumbnail-path: "img/bloc_chat_thumbnail.PNG"
-short-description: An AngularJS Chatroom Application
+short-description: An AngularJS Chatroom
 
 ---
 ## Designing an AngularJS Based Chatroom

@@ -3,7 +3,7 @@ layout: post
 title: BlocJams
 feature-img: "img/bloc_jams_bg.jpg"
 thumbnail-path: "img/Bloc_Jams_Thumbnail.PNG"
-short-description: A modern music player
+short-description: Javascript Music Player
 
 ---
 ## My First Major JS Project
