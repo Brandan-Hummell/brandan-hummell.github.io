@@ -5,8 +5,4 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Besides the coding and gaming that I talk about in my blog posts, I have a ton of hobbies and interests. I love to cook, work on my motorcycle, brew beer, play Magic the Gathering, and travel. All of the things I love the most have more in common then they would initially seem. There is always an aspect of problem solving and deep learning. I cannot help but be drawn in by a good puzzle, and I often find myself travelling down the proverbial rabbit hole. Perhaps this is the reason why I love developing code; projects are problem solving opportunities rife with the chance to learn and create. 
