@@ -4,5 +4,11 @@ title: About
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
+## A little about me
 
-Besides the coding and gaming that I talk about in my blog posts, I have a ton of hobbies and interests. I love to cook, work on my motorcycle, brew beer, play Magic the Gathering, and travel. All of the things I enjoy the most have more in common then they would initially seem. There is always an aspect of problem solving and deep learning. I cannot help but be drawn in by a good puzzle, and I often find myself travelling down the proverbial rabbit hole. Perhaps this is the reason why I love developing code; projects are problem solving opportunities rife with the chance to learn and create. 
+I have a BA in English and an MS in Commerce with a focus in Marketing and Management. After graduation I immediately entered the digital marketing industry as a paid search analyst. With over two years in the industry, I am currently an Account Manager working with many types of paid media. 
+
+
+## Fun Stuff
+
+My favorite game franchises include Final Fantasy, Castlevania, The Witcher, Zelda, and pretty much anything made by Bethesda. If it isn't already readily apparent, I mostly play RPGs, FPS, Puzzle/Adventure, and story-centric games. I am still a sucker for a good platformer though, as I still revisit Super Mario Bros on my SNES every now and then.
