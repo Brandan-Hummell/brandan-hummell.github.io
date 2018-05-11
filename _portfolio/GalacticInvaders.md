@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galactic Invaders
+title:
 feature-img: "img/Galactic_Invaders_Banner.PNG"
 thumbnail-path: "img/Galactic_Invaders_thumbnail.PNG"
 short-description: Classic Space Shooter
